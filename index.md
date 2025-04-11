@@ -2,4 +2,4 @@
 
 | Projects                               |
 |----------------------------------------|
-| [Shapes and Sizes](/shapes-and-sizes/) |
+| [Shapes and Sizes](scratch/shapes-and-sizes/) |
