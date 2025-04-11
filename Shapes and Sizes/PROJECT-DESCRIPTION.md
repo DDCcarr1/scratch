@@ -24,9 +24,10 @@ Size the shape with ‘space’ or the size button.
 
 |—[    CREDITS   ]—|
 
-|>   @Create-Scratch101 — Main Project
-|>   @bib_2-0 — Inspiration in:
-https://scratch.mit.edu/projects/1136865473/
+|>   @Create-Scratch101 — Main Project       |
+----------------------------------------------
+|>   @bib_2-0 — Inspiration in:              |
+|https://scratch.mit.edu/projects/1136865473/|
 
 > — — — — — — — — — — — — — — — — — — <
 
