@@ -16,9 +16,9 @@ Size the shape with ‘space’ or the size button.
 
 |—[    UPDATE  HISTORY   ]—|
 
-|>   0.1   |>   Created Project
-|>   0.2   |>   Shared + Added Buttons
-|>   SOON  |>   Color Setter + Thumbnail
+|>   0.1   |>   Created Project          |
+|>   0.2   |>   Shared + Added Buttons   |
+|>   SOON  |>   Color Setter + Thumbnail |
 
 > — — — — — — — — — — — — — — — — — — <
 
@@ -33,8 +33,9 @@ Size the shape with ‘space’ or the size button.
 
 |—[    NOTES   ]—|
 
-Propose to be Featured:
-|>   https://scratch.mit.edu/studios/28715018/comments
+|Propose to be Featured:                               |
+--------------------------------------------------------
+|>   https://scratch.mit.edu/studios/28715018/comments |
 
 This project is an example of MyBlocks and Pen, specifically
 “run without screen refresh” to make the shape drawing instant.
