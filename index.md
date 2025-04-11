@@ -1,5 +1,5 @@
 ## DDCcarr1's Scratch Repository
 
-| Projects                               |
-|----------------------------------------|
+| Projects                                      |
+|-----------------------------------------------|
 | [Shapes and Sizes](scratch/shapes-and-sizes/) |
